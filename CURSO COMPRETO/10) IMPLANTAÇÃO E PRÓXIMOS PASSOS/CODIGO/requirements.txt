@@ -1,0 +1,4 @@
+fasthtml
+werkzeug
+cachetools
+gunicorn
